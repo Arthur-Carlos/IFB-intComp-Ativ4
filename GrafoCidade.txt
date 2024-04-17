@@ -1,0 +1,23 @@
+Neant Iasi  87
+Iasi Vaslui  92
+Vaslui Urziceni  142
+Urziceni Hirsova  98
+Urziceni Bucareste  85
+Hirsova Eforie  86
+Bucareste Giurgiu  90
+Bucareste Pitesti  101
+Bucareste Fagaras  211
+Pitesti Craiova  138
+Pitesti Rimnicu Vilcea  97
+Craiova Drobeta  120
+Craiova Rimnicu Vilcea  146
+Drobeta Mehadia  75
+Mehadia Lugov  70
+Lugov Timisoara  111
+Timisoara Arad  118
+Arad Zerind  75
+Arad Sibiu  140
+Zerind Oradea  71
+Oradea Sibiu  151
+Sibiu Rimnicu Vilcea  80
+Sibiu Fagaras  99
